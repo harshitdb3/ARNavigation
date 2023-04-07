@@ -1,62 +1,6 @@
 {
 	"TargetList": [
 		{
-			"Name": "CoffeeMachine",
-			"FloorNumber": 0,
-			"Position": {
-				"x": -4.49,
-				"y": 0.00,
-				"z": -1.99
-			},
-			"Rotation": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			}
-		},
-		{
-			"Name": "MainEntrance",
-			"FloorNumber": 0,
-			"Position": {
-				"x": -8.38,
-				"y": 0.00,
-				"z": -2.23
-			},
-			"Rotation": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			}
-		},
-		{
-			"Name": "BedRoom",
-			"FloorNumber": 0,
-			"Position": {
-				"x": -1.01,
-				"y": 0.00,
-				"z": -5.31
-			},
-			"Rotation": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			}
-		},
-		{
-			"Name": "Kitchen",
-			"FloorNumber": 0,
-			"Position": {
-				"x": -6.57,
-				"y": 0.00,
-				"z": -0.99
-			},
-			"Rotation": {
-				"x": 0.0,
-				"y": -90.0,
-				"z": 0.0
-			}
-		},
-		{
 			"Name": "StartPoint",
 			"FloorNumber": 0,
 			"Position": {
@@ -71,7 +15,7 @@
 			}
 		},
 		{
-			"Name": "LivingRoom",
+			"Name": "Entrance",
 			"FloorNumber": 0,
 			"Position": {
 				"x": 0.00,
@@ -80,17 +24,18 @@
 			},
 			"Rotation": {
 				"x": 0.0,
-				"y": 180.0,
+				"y": 0.0,
 				"z": 0.0
 			}
 		},
+		
 		{
-			"Name": "ExtraRoom",
-			"FloorNumber": 1,
+			"Name": "GuestRoom",
+			"FloorNumber": 0,
 			"Position": {
-				"x": -5.68,
+				"x": -3.74,
 				"y": 0.00,
-				"z": -5.67
+				"z": -4.06
 			},
 			"Rotation": {
 				"x": 0.0,
@@ -99,16 +44,74 @@
 			}
 		},
 		{
-			"Name": "SecondMainEntrance",
-			"FloorNumber": 1,
+			"Name": "Shop",
+			"FloorNumber": 0,
 			"Position": {
-				"x": -8.15,
+				"x": -4.74,
 				"y": 0.00,
-				"z": -0.48
+				"z": -1.93
 			},
 			"Rotation": {
 				"x": 0.0,
 				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LivingRoom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -3.31,
+				"y": 0.00,
+				"z": -4.98
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -1.62,
+				"y": 0.00,
+				"z": -7.76
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BedRoom2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -5.31,
+				"y": 0.00,
+				"z": -7.15
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		
+
+		{
+			"Name": "Kitchen",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -6.27,
+				"y": 0.00,
+				"z": -3.16
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
 				"z": 0.0
 			}
 		}
